@@ -1,0 +1,5 @@
+No software is non-testable, because all software are expected to have:
+
+a known range of possible user input (e.g., numeric input, alphanumeric input, clicking widgets)
+a consistent, repeatable process and condition (e.g., computation using a formula, a UI behavior based on user action, performing normal tasks during expected hours)
+a predictable output based on the user input and conditions (e.g., an error/confirmation message, a landing page, a numerical output)
