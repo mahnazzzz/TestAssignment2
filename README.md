@@ -2,16 +2,9 @@
 
 Provided below are examples of test smells that were detected in open source Android projects.
 
-- [Assertion Roulette](#assertion-roulette)
+
 #### Assertion Roulette
 
-##### Source
-
-App: [com.madgag.agit](https://github.com/rtyley/agit)
-
-Test File: [GitAsyncTaskTest.java](https://github.com/rtyley/agit/blob/fc99d8eaa42940198589b032a2b9ba74d9ce3094/agit-integration-tests/src/main/java/com/madgag/agit/GitAsyncTaskTest.java)
-
-Production File: [GitAsyncTask.java](https://github.com/rtyley/agit/blob/e42190e0f31f3d28086616f782e7f31422e9d229/agit/src/main/java/com/madgag/agit/operations/GitAsyncTask.java)
 
 ##### Code Snippet
 
